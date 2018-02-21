@@ -1,0 +1,4 @@
+*.userprefs
+Droid/obj
+Resource.designer.cs
+packages
